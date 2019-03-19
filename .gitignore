@@ -6,9 +6,10 @@
 *.ear
 *.versionsBackup
 
-
 *.iml
 .idea/
+.settings
+.project
 target/
 logs/
 log/
